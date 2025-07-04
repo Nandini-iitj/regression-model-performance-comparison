@@ -1,0 +1,4 @@
+Model,MSE,RMSE,R²,Best_Params
+Ridge Regression,24.312903830491614,4.930811680696355,0.6684624359643558,"{'alpha': 1.0, 'max_iter': 1000, 'solver': 'auto'}"
+Random Forest,8.502212978007671,2.915855445320922,0.8840614432856947,"{'max_depth': 10, 'min_samples_split': 5, 'n_estimators': 100}"
+SVR,12.738192019658806,3.5690603833024186,0.826298447036198,"{'C': 10, 'gamma': 'auto', 'kernel': 'rbf'}"
